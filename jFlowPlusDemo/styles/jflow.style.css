@@ -18,15 +18,17 @@ Date: July 29, 2010
 	margin: 0 auto;
 }
 
-#slide1 span, #slide2 span, #slide3 span {
+#slide1 span, #slide2 span, #slide3 span, #slide4 span, #slide5 span, #slide6 span, #slide7 span{
 	background: url("../images/contentBg.png") repeat top left transparent;
 	position: absolute;
 	bottom: 20px;
 	right: 20px;
 	padding: 10px;
+                color: OrangeRed;
+               text-shadow: 1px 1px 1px white;
 }
 
-#slide1 h3, #slide2 h3, #slide3 h3 {
+#slide1 h3, #slide2 h3, #slide3 h3, #slide4 h3, #slide5 h3, #slide6 h3,  #slide7 h3, {
 	font-family: Georgia, serif;
 	color: #FFF;
 	font-size: 35px;
@@ -34,9 +36,9 @@ Date: July 29, 2010
 	margin: 0 0 10px 0;
 }
 
-#slide1 p, #slide2 p, #slide3 p {
+#slide1 p, #slide2 p, #slide3 p, #slide4 p, #slide5 p, #slide6 p, #slide7 p, {
 	font-family: Georgia, serif;
-	color: #FFF;	
+	color:red;	
 	margin: 0;
 }
 

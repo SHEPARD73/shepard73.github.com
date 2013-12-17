@@ -21,11 +21,11 @@ body {
 }
 
 #jFlowCredits h1 {
-	color: #666;
+	color: blue;
 	font-weight: normal;
 	font-size: 90px;
 	line-height: 1.1em;
-	text-shadow: 1px 1px 1px #FFF;
+	text-shadow: 2px 2px 2px green;
 	margin: 20px 0 0 0;
 }
 
@@ -35,7 +35,7 @@ body {
 	background-color: #CCC;
 	font-size: 40px;
 	color: #FFF;
-	text-shadow: 1px 1px 1px #999;
+	text-shadow: 1px 1px 1px green;
 
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 #jFlowCredits h2 a {
-	color: #FFF;
+	color: red;
 	text-decoration: none;
 		text-shadow: 1px 1px 1px #999;
 
@@ -55,3 +55,4 @@ body {
 	background-color: #CCC;
 	color: #FFF;
 }
+ 
